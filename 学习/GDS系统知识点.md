@@ -139,12 +139,13 @@ GDS系统全称是气体检测系统，我们主要做的是可燃和有毒气�
 可以通过在线网站换算
 
 https://www.teesing.com/tw/page/資訊中心/工具/ppm-mg-m3
+
 https://www.osgeo.cn/app/s1900
 
 也可能通过公式换算
 
-![GDS-1](D:\小三\学习\MD文件\GDS\GDS-1.png)
+![GDS-1](GDS/GDS-1.png)
 
 附表
 
-![GDS-2](D:\小三\学习\MD文件\GDS\GDS-2.png)
+![GDS-2](GDS/GDS-2.png)
