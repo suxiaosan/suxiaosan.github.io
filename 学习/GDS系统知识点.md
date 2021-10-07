@@ -144,8 +144,8 @@ https://www.osgeo.cn/app/s1900
 
 也可能通过公式换算
 
-![GDS-1](GDS/GDS-1.png)
+![GDS-1](GDS系统知识点/GDS-1.png)
 
 附表
 
-![GDS-2](GDS/GDS-2.png)
+![GDS-2](GDS系统知识点/GDS-2.png)
