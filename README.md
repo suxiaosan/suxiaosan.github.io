@@ -1,7 +1,7 @@
-# 留言
-请点击[留言](https://www.kdocs.cn/p/136697948773?pcEnter=joinregular)
+# 小白板
+请点击 [留言小白板](https://www.kdocs.cn/p/136697948773?pcEnter=joinregular)
 
-使用的是WPS在线文档，需要先注册一个账户登录，就可以留言啦。
+如果你有什么意见或建议，可以和我交流，使用的是WPS在线文档，需要先注册一个账户登录，就可以留言啦。
 
 # 学习
 
