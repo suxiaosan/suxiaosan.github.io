@@ -161,6 +161,14 @@ https://www.osgeo.cn/app/s1900
 
 ![GDS-1](GDS系统知识点/GDS-1.png)
 
+> 式中
+>
+> Mw—气体的分子量（g/mol)；
+>
+> T—环境温度（K)；
+>
+> P—环境大气压力（atm)；
+
 附表
 
 ![GDS-2](GDS系统知识点/GDS-2.png)
